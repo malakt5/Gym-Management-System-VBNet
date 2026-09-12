@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36804.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Projet PEVEN", "Projet PEVEN\Projet PEVEN.vbproj", "{ED422745-B795-49AE-9F77-FA5E2CA0928A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED422745-B795-49AE-9F77-FA5E2CA0928A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED422745-B795-49AE-9F77-FA5E2CA0928A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED422745-B795-49AE-9F77-FA5E2CA0928A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED422745-B795-49AE-9F77-FA5E2CA0928A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F5A385E-80A4-4433-9C8F-EDC764DFF8B3}
+	EndGlobalSection
+EndGlobal
